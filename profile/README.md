@@ -1,12 +1,12 @@
-## Hi there 👋
+### About
+The research project CINEMINDS creates an online archive of craft knowledge in cinema, based on interviews with international filmmakers. CINEMINDS is a cooperation between the Zurich University of the Arts [ZHdK](https://www.zhdk.ch/studium/film) and the University of Zurich [UZH](https://www.film.uzh.ch/de.html) in collaboration with the Linguistic Research Infrastructure [LiRi](https://www.liri.uzh.ch/), [Heart](https://heart.zuerich) Agency and the World Association of Film Schools [CILECT](http://cilect.org). The project is funded by the Digitalization Initiative of the Zurich Higher Education Institutions [DIZH](https://dizh.ch/en/2023/02/13/cineminds-2/).
 
-<!--
+- **Test Website** → <https://alpha.cineminds.net/>
+- **Send a Message**
 
-**Here are some ideas to get you started:**
+### Partners
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- [Zurich University of the Arts (ZHdK)](https://www.zhdk.ch/studium/film)
+- [DIZH](https://dizh.ch/en/2023/02/13/cineminds-2/)
+- [University of Zurich (UZH)](https://www.film.uzh.ch/de.html)
+- [CILECT](http://cilect.org) 
